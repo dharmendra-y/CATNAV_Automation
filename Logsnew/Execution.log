@@ -1,0 +1,7 @@
+25 | 07/March/2022 09:39:22 PM | INFO | test_Login_1 | ******************** Login Test Started ********************
+31 | 07/March/2022 09:39:37 PM | INFO | test_Login_1 | ******************** Login Successful ********************
+36 | 07/March/2022 09:39:47 PM | INFO | test_Login_1 | ******************** Catalog Selected Successfully ********************
+38 | 07/March/2022 09:39:47 PM | INFO | test_Login_1 | ******************** Add to CART clicked Successfully ********************
+41 | 07/March/2022 09:40:07 PM | INFO | test_Login_1 | ******************** View CART (AO PAGE) clicked Successfully ********************
+44 | 07/March/2022 09:40:12 PM | INFO | test_Login_1 | ******************** Proceed to Checkout clicked Successfully ********************
+49 | 07/March/2022 09:40:22 PM | INFO | test_Login_1 | ******************** Shipping First Name Provided ********************

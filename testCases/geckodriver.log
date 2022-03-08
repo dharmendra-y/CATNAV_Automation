@@ -1,0 +1,24 @@
+1646292177545	geckodriver	INFO	Listening on 127.0.0.1:50237
+1646292180651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50238" "-no-remote" "-profile" "C:\\Users\\DHARME~2\\AppData\\Local\\Temp\\rust_mozprofilexhCUvI"
+1646292182407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dharmendray\\AppData\\Local\\Temp\\rust_mozprofilexhCUvI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50238/devtools/browser/7f0560c6-12ec-4ddb-b012-c8872a4bdb14
+1646292186466	Marionette	INFO	Listening on port 50245
+1646292186531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646292212371	Marionette	INFO	Stopped listening on port 50245
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646309176684	geckodriver	INFO	Listening on 127.0.0.1:52815
+1646309179831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52816" "-no-remote" "-profile" "C:\\Users\\DHARME~2\\AppData\\Local\\Temp\\rust_mozprofileTJEv9F"
+1646309180611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dharmendray\\AppData\\Local\\Temp\\rust_mozprofileTJEv9F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52816/devtools/browser/e21ef629-ee72-4b14-98f1-7d4abde28383
+1646309184362	Marionette	INFO	Listening on port 52821
+1646309184684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646309234884	Marionette	INFO	Stopped listening on port 52821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
