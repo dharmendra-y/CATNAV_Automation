@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#Comment from Local PC
-=======
-#This is for testing updates (GitHub text)
->>>>>>> 11342c018e9c44ccee070ab0dd0cb41008e18661
+
 import logging
 import time
 import pytest
