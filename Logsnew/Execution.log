@@ -1,7 +1,55 @@
-25 | 07/March/2022 09:39:22 PM | INFO | test_Login_1 | ******************** Login Test Started ********************
-31 | 07/March/2022 09:39:37 PM | INFO | test_Login_1 | ******************** Login Successful ********************
-36 | 07/March/2022 09:39:47 PM | INFO | test_Login_1 | ******************** Catalog Selected Successfully ********************
-38 | 07/March/2022 09:39:47 PM | INFO | test_Login_1 | ******************** Add to CART clicked Successfully ********************
-41 | 07/March/2022 09:40:07 PM | INFO | test_Login_1 | ******************** View CART (AO PAGE) clicked Successfully ********************
-44 | 07/March/2022 09:40:12 PM | INFO | test_Login_1 | ******************** Proceed to Checkout clicked Successfully ********************
-49 | 07/March/2022 09:40:22 PM | INFO | test_Login_1 | ******************** Shipping First Name Provided ********************
+21 | 11/March/2022 05:33:51 PM | INFO | test_KyeWordSearch_1 | ******************** Test_001_KeyWord Search ********************
+31 | 11/March/2022 05:33:57 PM | INFO | test_KyeWordSearch_1 | 24 Categories
+34 | 11/March/2022 05:33:57 PM | INFO | test_KyeWordSearch_1 | 24 Categories
+38 | 11/March/2022 05:33:57 PM | INFO | test_KyeWordSearch_1 | 281 Results
+43 | 11/March/2022 05:33:57 PM | INFO | test_KyeWordSearch_1 | All Categories | DYTest
+45 | 11/March/2022 05:33:57 PM | INFO | test_KyeWordSearch_1 | http://dytest.cn-qa-stage.catnav.us/result/all-categories?keyword=Item
+13 | 11/March/2022 05:34:04 PM | INFO | test_CAD_Submission_3D | ********************Test_001_CAD_Submission_3D********************
+25 | 11/March/2022 05:34:21 PM | INFO | test_CAD_Submission_3D | [8839EFDCG2V] Variable Speed Drive
+26 | 11/March/2022 05:34:21 PM | INFO | test_CAD_Submission_3D | [8839EFDCG2V] Variable Speed Drive
+28 | 11/March/2022 05:34:21 PM | INFO | test_CAD_Submission_3D | 3D
+42 | 11/March/2022 05:34:34 PM | INFO | test_CAD_Submission_3D | 8839EFDCG2V | Variable Speed Drive | Build 49 @#$#$%#$&%&!Test
+44 | 11/March/2022 05:34:34 PM | INFO | test_CAD_Submission_3D | Your CAD file has been downloaded successfully.
+47 | 11/March/2022 05:34:37 PM | INFO | test_CAD_Submission_3D | https://build49-legacy.cn-qa-pub.catnav.us/item/enclosed-drives-and-soft-starters/e-flex-drives/8839efdcg2v-2?plpver=1155
+51 | 11/March/2022 05:34:40 PM | INFO | test_CAD_Submission_2D_Front_View | ********************Test_002_CAD_Submission_2D********************
+68 | 11/March/2022 05:34:54 PM | INFO | test_CAD_Submission_2D_Front_View | [8839EFDCG2V] Variable Speed Drive
+70 | 11/March/2022 05:34:54 PM | INFO | test_CAD_Submission_2D_Front_View | [8839EFDCG2V] Variable Speed Drive
+72 | 11/March/2022 05:34:54 PM | INFO | test_CAD_Submission_2D_Front_View | 2D Front View
+89 | 11/March/2022 05:35:07 PM | INFO | test_CAD_Submission_2D_Front_View | 8839EFDCG2V | Variable Speed Drive | Build 49 @#$#$%#$&%&!Test
+91 | 11/March/2022 05:35:07 PM | INFO | test_CAD_Submission_2D_Front_View | Your CAD file has been downloaded successfully.
+96 | 11/March/2022 05:35:10 PM | INFO | test_CAD_Submission_2D_Front_View | https://build49-legacy.cn-qa-pub.catnav.us/item/enclosed-drives-and-soft-starters/e-flex-drives/8839efdcg2v-2?plpver=1155
+100 | 11/March/2022 05:35:13 PM | INFO | test_CAD_Submission_2D_Left_Side_View | ******************** Test_003_CAD_Submission_2D Left Side View ********************
+117 | 11/March/2022 05:35:27 PM | INFO | test_CAD_Submission_2D_Left_Side_View | [8839EFDCG2V] Variable Speed Drive
+119 | 11/March/2022 05:35:27 PM | INFO | test_CAD_Submission_2D_Left_Side_View | [8839EFDCG2V] Variable Speed Drive
+121 | 11/March/2022 05:35:27 PM | INFO | test_CAD_Submission_2D_Left_Side_View | 2D Left Side View
+138 | 11/March/2022 05:35:40 PM | INFO | test_CAD_Submission_2D_Left_Side_View | 8839EFDCG2V | Variable Speed Drive | Build 49 @#$#$%#$&%&!Test
+140 | 11/March/2022 05:35:40 PM | INFO | test_CAD_Submission_2D_Left_Side_View | Your CAD file has been downloaded successfully.
+145 | 11/March/2022 05:35:43 PM | INFO | test_CAD_Submission_2D_Left_Side_View | https://build49-legacy.cn-qa-pub.catnav.us/item/enclosed-drives-and-soft-starters/e-flex-drives/8839efdcg2v-2?plpver=1155
+149 | 11/March/2022 05:35:46 PM | INFO | test_CAD_Submission_2D_Top_View | ******************** Test_004_CAD_Submission_2D Top Side ********************
+166 | 11/March/2022 05:36:00 PM | INFO | test_CAD_Submission_2D_Top_View | [8839EFDCG2V] Variable Speed Drive
+168 | 11/March/2022 05:36:00 PM | INFO | test_CAD_Submission_2D_Top_View | [8839EFDCG2V] Variable Speed Drive
+170 | 11/March/2022 05:36:00 PM | INFO | test_CAD_Submission_2D_Top_View | 2D Top View
+187 | 11/March/2022 05:36:13 PM | INFO | test_CAD_Submission_2D_Top_View | 8839EFDCG2V | Variable Speed Drive | Build 49 @#$#$%#$&%&!Test
+189 | 11/March/2022 05:36:13 PM | INFO | test_CAD_Submission_2D_Top_View | Your CAD file has been downloaded successfully.
+194 | 11/March/2022 05:36:16 PM | INFO | test_CAD_Submission_2D_Top_View | https://build49-legacy.cn-qa-pub.catnav.us/item/enclosed-drives-and-soft-starters/e-flex-drives/8839efdcg2v-2?plpver=1155
+198 | 11/March/2022 05:36:19 PM | INFO | test_CAD_Submission_2D_Bottom_View | ******************** Test_005_CAD_Submission_2D Bottom View ********************
+215 | 11/March/2022 05:36:33 PM | INFO | test_CAD_Submission_2D_Bottom_View | [8839EFDCG2V] Variable Speed Drive
+217 | 11/March/2022 05:36:33 PM | INFO | test_CAD_Submission_2D_Bottom_View | [8839EFDCG2V] Variable Speed Drive
+219 | 11/March/2022 05:36:33 PM | INFO | test_CAD_Submission_2D_Bottom_View | 2D Bottom View
+236 | 11/March/2022 05:36:46 PM | INFO | test_CAD_Submission_2D_Bottom_View | 8839EFDCG2V | Variable Speed Drive | Build 49 @#$#$%#$&%&!Test
+238 | 11/March/2022 05:36:46 PM | INFO | test_CAD_Submission_2D_Bottom_View | Your CAD file has been downloaded successfully.
+243 | 11/March/2022 05:36:49 PM | INFO | test_CAD_Submission_2D_Bottom_View | https://build49-legacy.cn-qa-pub.catnav.us/item/enclosed-drives-and-soft-starters/e-flex-drives/8839efdcg2v-2?plpver=1155
+248 | 11/March/2022 05:36:53 PM | INFO | test_CAD_Submission_Revit_Model | ******************** Test_006_CAD_Submission_Revit Model ********************
+265 | 11/March/2022 05:37:08 PM | INFO | test_CAD_Submission_Revit_Model | [8839EFDCG2V] Variable Speed Drive
+267 | 11/March/2022 05:37:08 PM | INFO | test_CAD_Submission_Revit_Model | [8839EFDCG2V] Variable Speed Drive
+269 | 11/March/2022 05:37:08 PM | INFO | test_CAD_Submission_Revit_Model | Revit Model
+286 | 11/March/2022 05:37:21 PM | INFO | test_CAD_Submission_Revit_Model | 8839EFDCG2V | Variable Speed Drive | Build 49 @#$#$%#$&%&!Test
+288 | 11/March/2022 05:37:21 PM | INFO | test_CAD_Submission_Revit_Model | undefined
+293 | 11/March/2022 05:37:24 PM | INFO | test_CAD_Submission_Revit_Model | https://build49-legacy.cn-qa-pub.catnav.us/item/enclosed-drives-and-soft-starters/e-flex-drives/8839efdcg2v-2?plpver=1155
+26 | 11/March/2022 05:37:31 PM | INFO | test_Login_1 | ******************** Login Test Started ********************
+32 | 11/March/2022 05:37:51 PM | INFO | test_Login_1 | ******************** Login Successful ********************
+37 | 11/March/2022 05:38:01 PM | INFO | test_Login_1 | ******************** Catalog Selected Successfully ********************
+39 | 11/March/2022 05:38:04 PM | INFO | test_Login_1 | ******************** Add to CART clicked Successfully ********************
+42 | 11/March/2022 05:38:31 PM | INFO | test_Login_1 | ******************** View CART (AO PAGE) clicked Successfully ********************
+45 | 11/March/2022 05:38:36 PM | INFO | test_Login_1 | ******************** Proceed to Checkout clicked Successfully ********************
+50 | 11/March/2022 05:38:46 PM | INFO | test_Login_1 | ******************** Shipping First Name Provided ********************
