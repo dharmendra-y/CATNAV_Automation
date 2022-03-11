@@ -10,7 +10,7 @@ from utilities import datetimeutilityNew
 from pageObjects.PCAT import PCATLogin
 from pageObjects.Buttons import button_clicks
 from pageObjects.ShippingPage import shipping_page_info
-#tst Auto Build
+#tst Auto Build test
 
 class Test_003_PCAT_Test:
     baseURL = "http://build49-legacy.cn-qam-pub.catnav.us/item/-categories-home-page-flstest-calculated-attribute/all-categories-flstest-shipping-and-freight/test-shipping"
