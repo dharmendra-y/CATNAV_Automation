@@ -9,8 +9,6 @@ from utilities import datetimeutilityNew
 
 class Test_001_KeywordSearch():
     baseURL = "http://dytest.cn-qa-stage.catnav.us/result/order-submission"
-    #baseURL = ReadConfig.getApplicationUrl()
-    #pytest=ReadConfig.Pyteset_info()
     logger = LogGen.loggen()
     def test_KyeWordSearch_1(self, setup):
 
