@@ -1,2 +1,8 @@
-25 | 15/March/2022 05:21:49 PM | INFO | test_CompareItem_1 | ******************** Compare Item clicked ********************
-32 | 15/March/2022 05:21:55 PM | INFO | test_CompareItem_1 | ******************** Compare button clicked ********************
+25 | 15/March/2022 07:22:20 PM | INFO | test_CompareItem_1 | ******************** Compare Item clicked ********************
+32 | 15/March/2022 07:22:25 PM | INFO | test_CompareItem_1 | ******************** Compare button clicked ********************
+33 | 15/March/2022 07:22:25 PM | INFO | test_CompareItem_1 | AMItem4
+35 | 15/March/2022 07:22:26 PM | INFO | test_CompareItem_1 | AMItem5
+39 | 15/March/2022 07:22:29 PM | INFO | test_CompareItem_1 | Compare Products | Build 49 @#$#$%#$&%&!Test
+45 | 15/March/2022 07:22:33 PM | INFO | test_CompareItem_2 | ******************** Test case 2 started ********************
+54 | 15/March/2022 07:22:43 PM | INFO | test_CompareItem_2 | ******************** Compare Item clicked ********************
+60 | 15/March/2022 07:22:48 PM | INFO | test_CompareItem_2 | ******************** Clear all Button Clicked ********************

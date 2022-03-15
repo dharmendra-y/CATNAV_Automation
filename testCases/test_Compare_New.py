@@ -30,19 +30,37 @@ class Test_Compare_Item:
         time.sleep(3)
         #Item 1 Compare click
         self.logger.info("******************** Compare button clicked ********************")
-        #Clear all button click
-        # Clearall_Click = driver.execute_script("return document.querySelector('plp-itemsqueue').shadowRoot.querySelector('#btnClearAll')")
-        # driver.execute_script("arguments[0].click();", Clearall_Click)
-        # time.sleep(1)
+        self.logger.info(self.driver.execute_script("return document.querySelector('plp-itemcard').shadowRoot.querySelector('div > div > div:nth-child(2)').innerText"))
+        time.sleep(1)
+        self.logger.info(self.driver.execute_script("return document.querySelector('plp-itemsqueue > plp-itemcard:nth-child(2)').shadowRoot.querySelector('div > div > div:nth-child(2)').innerText"))
 
         self.driver.execute_script("return document.querySelector('plp-itemsqueue').shadowRoot.querySelector('#btnCompare')").click()
-        #Compare_Click = driver.execute_script("return document.querySelector('plp-itemsqueue').shadowRoot.querySelector('#btnCompare')")
+        time.sleep(2)
 
-        #driver.execute_script("arguments[0].click();", Compare_Click)
+        self.driver.close()
+
+
+    def test_CompareItem_2(self, setup):
+        self.logger.info("******************** Test case 2 started ********************")
+        self.driver = setup
+        self.driver.get(self.baseURL)
+        time.sleep(2)
+        self.driver.maximize_window()
+        time.sleep(1)
+        self.driver.maximize_window()
+        time.sleep(2)
+        # Item 1 Compare click
+        self.logger.info("******************** Compare Item clicked ********************")
+        self.driver.execute_script("return document.querySelector('plp-item-results > plp-thumbnail >plp-compareitem').shadowRoot.querySelector('a > span#compareitemText')").click()
+        time.sleep(2)
+        Compare_Button_Click2 = self.driver.execute_script("return document.querySelector('plp-item-results > plp-thumbnail:nth-child(2)>plp-compareitem').shadowRoot.querySelector('a > span#compareitemText')")
+        self.driver.execute_script("arguments[0].click();", Compare_Button_Click2)
+        time.sleep(3)
+        self.logger.info("******************** Clear all Button Clicked ********************")
+        # Clear all button click
+        Clearall_Click = self.driver.execute_script("return document.querySelector('plp-itemsqueue').shadowRoot.querySelector('#btnClearAll')")
+        self.driver.execute_script("arguments[0].click();", Clearall_Click)
         time.sleep(1)
 
-        print(self.driver.execute_script("return document.title;"))
-
-        print(self.driver.execute_script("return document.URL"))
-
+        time.sleep(1)
         self.driver.close()
