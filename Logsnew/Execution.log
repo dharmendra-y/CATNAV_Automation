@@ -1,19 +1,77 @@
-14 | 29/March/2022 07:23:25 PM | INFO | test_SearchFilter_1 | ********** Test_001 | Test for Single Attribute Selection **********
-19 | 29/March/2022 07:23:34 PM | INFO | test_SearchFilter_1 | Search Filter page loaded
-21 | 29/March/2022 07:23:36 PM | INFO | test_SearchFilter_1 | 117 Results
-23 | 29/March/2022 07:23:36 PM | INFO | test_SearchFilter_1 | Attribute OUTPUT AMPERE RATING | Checkbox selected for '10.06'
-25 | 29/March/2022 07:23:39 PM | INFO | test_SearchFilter_1 | 3 Results
-30 | 29/March/2022 07:23:43 PM | INFO | test_SearchFilter_2 | ********** Test_002 | Test for Multiple Attribute Selection **********
-35 | 29/March/2022 07:23:51 PM | INFO | test_SearchFilter_2 | Search Filter page loaded
-37 | 29/March/2022 07:23:53 PM | INFO | test_SearchFilter_2 | 117 Results
-39 | 29/March/2022 07:23:53 PM | INFO | test_SearchFilter_2 | Attribute OUTPUT AMPERE RATING | Checkbox selected for '10.06'
-42 | 29/March/2022 07:23:56 PM | INFO | test_SearchFilter_2 | Attribute ENCLOSURE RATING | Checkbox selected for 'Type 1'
-44 | 29/March/2022 07:23:58 PM | INFO | test_SearchFilter_2 | 1 Results
-49 | 29/March/2022 07:24:02 PM | INFO | test_SearchFilter_3 | ********** Test_003 | Test for No Results Found **********
-54 | 29/March/2022 07:24:10 PM | INFO | test_SearchFilter_3 | Search Filter page loaded
-56 | 29/March/2022 07:24:12 PM | INFO | test_SearchFilter_3 | 117 Results
-58 | 29/March/2022 07:24:12 PM | INFO | test_SearchFilter_3 | Attribute OUTPUT AMPERE RATING | Checkbox selected for '10.06'
-61 | 29/March/2022 07:24:15 PM | INFO | test_SearchFilter_3 | Attribute ENCLOSURE RATING | Checkbox selected for 'Type 1'
-64 | 29/March/2022 07:24:17 PM | INFO | test_SearchFilter_3 | Attribute FRAME SIZE | Checkbox selected for 'B'
-66 | 29/March/2022 07:24:19 PM | INFO | test_SearchFilter_3 | 0 Results
-69 | 29/March/2022 07:24:19 PM | INFO | test_SearchFilter_3 | No Data Available
+25 | 01/April/2022 03:57:02 PM | INFO | test_CompareItem_1 | ******************** Compare Item clicked ********************
+32 | 01/April/2022 03:57:07 PM | INFO | test_CompareItem_1 | ******************** Compare button clicked ********************
+33 | 01/April/2022 03:57:07 PM | INFO | test_CompareItem_1 | AMItem4
+35 | 01/April/2022 03:57:08 PM | INFO | test_CompareItem_1 | AMItem5
+44 | 01/April/2022 03:57:15 PM | INFO | test_CompareItem_2 | ******************** Test case 2 started ********************
+53 | 01/April/2022 03:57:25 PM | INFO | test_CompareItem_2 | ******************** Compare Item clicked ********************
+59 | 01/April/2022 03:57:30 PM | INFO | test_CompareItem_2 | ******************** Clear all Button Clicked ********************
+19 | 01/April/2022 03:57:42 PM | INFO | test_KyeWordSearch_1 | ******************** Test_001_KeyWord Search ********************
+29 | 01/April/2022 03:57:49 PM | INFO | test_KyeWordSearch_1 | 24 Categories
+32 | 01/April/2022 03:57:49 PM | INFO | test_KyeWordSearch_1 | 24 Categories
+36 | 01/April/2022 03:57:49 PM | INFO | test_KyeWordSearch_1 | 281 Results
+41 | 01/April/2022 03:57:49 PM | INFO | test_KyeWordSearch_1 | All Categories | DYTest
+43 | 01/April/2022 03:57:49 PM | INFO | test_KyeWordSearch_1 | http://dytest.cn-qa-stage.catnav.us/result/all-categories?keyword=Item
+13 | 01/April/2022 03:57:55 PM | INFO | test_CAD_Submission_3D | ********************Test_001_CAD_Submission_3D********************
+26 | 01/April/2022 03:58:36 PM | INFO | test_CAD_Submission_3D | [8839EFDCG2V] Variable Speed Drive
+27 | 01/April/2022 03:58:36 PM | INFO | test_CAD_Submission_3D | [8839EFDCG2V] Variable Speed Drive
+29 | 01/April/2022 03:58:36 PM | INFO | test_CAD_Submission_3D | 3D
+43 | 01/April/2022 03:58:51 PM | INFO | test_CAD_Submission_3D | 8839EFDCG2V | Variable Speed Drive | Build 49 @#$#$%#$&%&!Test
+45 | 01/April/2022 03:58:51 PM | INFO | test_CAD_Submission_3D | Your CAD file has been downloaded successfully.
+48 | 01/April/2022 03:58:54 PM | INFO | test_CAD_Submission_3D | https://build49-legacy.cn-qa-pub.catnav.us/item/enclosed-drives-and-soft-starters/e-flex-drives/8839efdcg2v-2?plpver=1155
+52 | 01/April/2022 03:58:58 PM | INFO | test_CAD_Submission_2D_Front_View | ********************Test_002_CAD_Submission_2D********************
+69 | 01/April/2022 03:59:17 PM | INFO | test_CAD_Submission_2D_Front_View | [8839EFDCG2V] Variable Speed Drive
+71 | 01/April/2022 03:59:17 PM | INFO | test_CAD_Submission_2D_Front_View | [8839EFDCG2V] Variable Speed Drive
+73 | 01/April/2022 03:59:17 PM | INFO | test_CAD_Submission_2D_Front_View | 2D Front View
+90 | 01/April/2022 03:59:30 PM | INFO | test_CAD_Submission_2D_Front_View | 8839EFDCG2V | Variable Speed Drive | Build 49 @#$#$%#$&%&!Test
+92 | 01/April/2022 03:59:30 PM | INFO | test_CAD_Submission_2D_Front_View | Your CAD file has been downloaded successfully.
+97 | 01/April/2022 03:59:34 PM | INFO | test_CAD_Submission_2D_Front_View | https://build49-legacy.cn-qa-pub.catnav.us/item/enclosed-drives-and-soft-starters/e-flex-drives/8839efdcg2v-2?plpver=1155
+101 | 01/April/2022 03:59:38 PM | INFO | test_CAD_Submission_2D_Left_Side_View | ******************** Test_003_CAD_Submission_2D Left Side View ********************
+118 | 01/April/2022 03:59:53 PM | INFO | test_CAD_Submission_2D_Left_Side_View | [8839EFDCG2V] Variable Speed Drive
+120 | 01/April/2022 03:59:53 PM | INFO | test_CAD_Submission_2D_Left_Side_View | [8839EFDCG2V] Variable Speed Drive
+122 | 01/April/2022 03:59:53 PM | INFO | test_CAD_Submission_2D_Left_Side_View | 2D Left Side View
+139 | 01/April/2022 04:00:06 PM | INFO | test_CAD_Submission_2D_Left_Side_View | 8839EFDCG2V | Variable Speed Drive | Build 49 @#$#$%#$&%&!Test
+141 | 01/April/2022 04:00:06 PM | INFO | test_CAD_Submission_2D_Left_Side_View | Your CAD file has been downloaded successfully.
+146 | 01/April/2022 04:00:10 PM | INFO | test_CAD_Submission_2D_Left_Side_View | https://build49-legacy.cn-qa-pub.catnav.us/item/enclosed-drives-and-soft-starters/e-flex-drives/8839efdcg2v-2?plpver=1155
+150 | 01/April/2022 04:00:14 PM | INFO | test_CAD_Submission_2D_Top_View | ******************** Test_004_CAD_Submission_2D Top Side ********************
+167 | 01/April/2022 04:00:29 PM | INFO | test_CAD_Submission_2D_Top_View | [8839EFDCG2V] Variable Speed Drive
+169 | 01/April/2022 04:00:29 PM | INFO | test_CAD_Submission_2D_Top_View | [8839EFDCG2V] Variable Speed Drive
+171 | 01/April/2022 04:00:29 PM | INFO | test_CAD_Submission_2D_Top_View | 2D Top View
+188 | 01/April/2022 04:00:42 PM | INFO | test_CAD_Submission_2D_Top_View | 8839EFDCG2V | Variable Speed Drive | Build 49 @#$#$%#$&%&!Test
+190 | 01/April/2022 04:00:42 PM | INFO | test_CAD_Submission_2D_Top_View | Your CAD file has been downloaded successfully.
+195 | 01/April/2022 04:00:45 PM | INFO | test_CAD_Submission_2D_Top_View | https://build49-legacy.cn-qa-pub.catnav.us/item/enclosed-drives-and-soft-starters/e-flex-drives/8839efdcg2v-2?plpver=1155
+199 | 01/April/2022 04:00:49 PM | INFO | test_CAD_Submission_2D_Bottom_View | ******************** Test_005_CAD_Submission_2D Bottom View ********************
+216 | 01/April/2022 04:01:05 PM | INFO | test_CAD_Submission_2D_Bottom_View | [8839EFDCG2V] Variable Speed Drive
+218 | 01/April/2022 04:01:05 PM | INFO | test_CAD_Submission_2D_Bottom_View | [8839EFDCG2V] Variable Speed Drive
+220 | 01/April/2022 04:01:05 PM | INFO | test_CAD_Submission_2D_Bottom_View | 2D Bottom View
+237 | 01/April/2022 04:01:19 PM | INFO | test_CAD_Submission_2D_Bottom_View | 8839EFDCG2V | Variable Speed Drive | Build 49 @#$#$%#$&%&!Test
+239 | 01/April/2022 04:01:19 PM | INFO | test_CAD_Submission_2D_Bottom_View | Your CAD file has been downloaded successfully.
+244 | 01/April/2022 04:01:22 PM | INFO | test_CAD_Submission_2D_Bottom_View | https://build49-legacy.cn-qa-pub.catnav.us/item/enclosed-drives-and-soft-starters/e-flex-drives/8839efdcg2v-2?plpver=1155
+249 | 01/April/2022 04:01:26 PM | INFO | test_CAD_Submission_Revit_Model | ******************** Test_006_CAD_Submission_Revit Model ********************
+266 | 01/April/2022 04:01:42 PM | INFO | test_CAD_Submission_Revit_Model | [8839EFDCG2V] Variable Speed Drive
+268 | 01/April/2022 04:01:42 PM | INFO | test_CAD_Submission_Revit_Model | [8839EFDCG2V] Variable Speed Drive
+270 | 01/April/2022 04:01:42 PM | INFO | test_CAD_Submission_Revit_Model | Revit Model
+287 | 01/April/2022 04:01:55 PM | INFO | test_CAD_Submission_Revit_Model | 8839EFDCG2V | Variable Speed Drive | Build 49 @#$#$%#$&%&!Test
+289 | 01/April/2022 04:01:55 PM | INFO | test_CAD_Submission_Revit_Model | undefined
+294 | 01/April/2022 04:01:58 PM | INFO | test_CAD_Submission_Revit_Model | https://build49-legacy.cn-qa-pub.catnav.us/item/enclosed-drives-and-soft-starters/e-flex-drives/8839efdcg2v-2?plpver=1155
+26 | 01/April/2022 04:02:12 PM | INFO | test_Login_1 | ******************** Login Test Started ********************
+32 | 01/April/2022 04:02:42 PM | INFO | test_Login_1 | ******************** Login Successful ********************
+37 | 01/April/2022 04:02:52 PM | INFO | test_Login_1 | ******************** Catalog Selected Successfully ********************
+14 | 01/April/2022 04:02:57 PM | INFO | test_SearchFilter_1 | ********** Test_001 | Test for Single Attribute Selection **********
+19 | 01/April/2022 04:03:08 PM | INFO | test_SearchFilter_1 | Search Filter page loaded
+21 | 01/April/2022 04:03:10 PM | INFO | test_SearchFilter_1 | 117 Results
+23 | 01/April/2022 04:03:10 PM | INFO | test_SearchFilter_1 | Attribute OUTPUT AMPERE RATING | Checkbox selected for '10.06'
+25 | 01/April/2022 04:03:12 PM | INFO | test_SearchFilter_1 | 117 Results
+30 | 01/April/2022 04:03:16 PM | INFO | test_SearchFilter_2 | ********** Test_002 | Test for Multiple Attribute Selection **********
+35 | 01/April/2022 04:03:28 PM | INFO | test_SearchFilter_2 | Search Filter page loaded
+37 | 01/April/2022 04:03:30 PM | INFO | test_SearchFilter_2 | 117 Results
+39 | 01/April/2022 04:03:30 PM | INFO | test_SearchFilter_2 | Attribute OUTPUT AMPERE RATING | Checkbox selected for '10.06'
+42 | 01/April/2022 04:03:32 PM | INFO | test_SearchFilter_2 | Attribute ENCLOSURE RATING | Checkbox selected for 'Type 1'
+44 | 01/April/2022 04:03:34 PM | INFO | test_SearchFilter_2 | 1 Results
+49 | 01/April/2022 04:03:38 PM | INFO | test_SearchFilter_3 | ********** Test_003 | Test for No Results Found **********
+54 | 01/April/2022 04:03:47 PM | INFO | test_SearchFilter_3 | Search Filter page loaded
+56 | 01/April/2022 04:03:49 PM | INFO | test_SearchFilter_3 | 117 Results
+58 | 01/April/2022 04:03:49 PM | INFO | test_SearchFilter_3 | Attribute OUTPUT AMPERE RATING | Checkbox selected for '10.06'
+61 | 01/April/2022 04:03:51 PM | INFO | test_SearchFilter_3 | Attribute ENCLOSURE RATING | Checkbox selected for 'Type 1'
+64 | 01/April/2022 04:03:53 PM | INFO | test_SearchFilter_3 | Attribute FRAME SIZE | Checkbox selected for 'B'
+66 | 01/April/2022 04:03:55 PM | INFO | test_SearchFilter_3 | 0 Results
+69 | 01/April/2022 04:03:55 PM | INFO | test_SearchFilter_3 | No Data Available
