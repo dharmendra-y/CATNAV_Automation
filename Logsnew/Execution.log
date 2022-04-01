@@ -1,8 +1,19 @@
-25 | 15/March/2022 07:22:20 PM | INFO | test_CompareItem_1 | ******************** Compare Item clicked ********************
-32 | 15/March/2022 07:22:25 PM | INFO | test_CompareItem_1 | ******************** Compare button clicked ********************
-33 | 15/March/2022 07:22:25 PM | INFO | test_CompareItem_1 | AMItem4
-35 | 15/March/2022 07:22:26 PM | INFO | test_CompareItem_1 | AMItem5
-39 | 15/March/2022 07:22:29 PM | INFO | test_CompareItem_1 | Compare Products | Build 49 @#$#$%#$&%&!Test
-45 | 15/March/2022 07:22:33 PM | INFO | test_CompareItem_2 | ******************** Test case 2 started ********************
-54 | 15/March/2022 07:22:43 PM | INFO | test_CompareItem_2 | ******************** Compare Item clicked ********************
-60 | 15/March/2022 07:22:48 PM | INFO | test_CompareItem_2 | ******************** Clear all Button Clicked ********************
+14 | 29/March/2022 07:23:25 PM | INFO | test_SearchFilter_1 | ********** Test_001 | Test for Single Attribute Selection **********
+19 | 29/March/2022 07:23:34 PM | INFO | test_SearchFilter_1 | Search Filter page loaded
+21 | 29/March/2022 07:23:36 PM | INFO | test_SearchFilter_1 | 117 Results
+23 | 29/March/2022 07:23:36 PM | INFO | test_SearchFilter_1 | Attribute OUTPUT AMPERE RATING | Checkbox selected for '10.06'
+25 | 29/March/2022 07:23:39 PM | INFO | test_SearchFilter_1 | 3 Results
+30 | 29/March/2022 07:23:43 PM | INFO | test_SearchFilter_2 | ********** Test_002 | Test for Multiple Attribute Selection **********
+35 | 29/March/2022 07:23:51 PM | INFO | test_SearchFilter_2 | Search Filter page loaded
+37 | 29/March/2022 07:23:53 PM | INFO | test_SearchFilter_2 | 117 Results
+39 | 29/March/2022 07:23:53 PM | INFO | test_SearchFilter_2 | Attribute OUTPUT AMPERE RATING | Checkbox selected for '10.06'
+42 | 29/March/2022 07:23:56 PM | INFO | test_SearchFilter_2 | Attribute ENCLOSURE RATING | Checkbox selected for 'Type 1'
+44 | 29/March/2022 07:23:58 PM | INFO | test_SearchFilter_2 | 1 Results
+49 | 29/March/2022 07:24:02 PM | INFO | test_SearchFilter_3 | ********** Test_003 | Test for No Results Found **********
+54 | 29/March/2022 07:24:10 PM | INFO | test_SearchFilter_3 | Search Filter page loaded
+56 | 29/March/2022 07:24:12 PM | INFO | test_SearchFilter_3 | 117 Results
+58 | 29/March/2022 07:24:12 PM | INFO | test_SearchFilter_3 | Attribute OUTPUT AMPERE RATING | Checkbox selected for '10.06'
+61 | 29/March/2022 07:24:15 PM | INFO | test_SearchFilter_3 | Attribute ENCLOSURE RATING | Checkbox selected for 'Type 1'
+64 | 29/March/2022 07:24:17 PM | INFO | test_SearchFilter_3 | Attribute FRAME SIZE | Checkbox selected for 'B'
+66 | 29/March/2022 07:24:19 PM | INFO | test_SearchFilter_3 | 0 Results
+69 | 29/March/2022 07:24:19 PM | INFO | test_SearchFilter_3 | No Data Available

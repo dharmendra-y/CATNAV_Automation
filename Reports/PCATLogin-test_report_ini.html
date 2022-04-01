@@ -243,7 +243,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>PCATLogin-test_report_ini.html</h1>
-    <p>Report generated on 15-Mar-2022 at 18:59:06 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <p>Report generated on 29-Mar-2022 at 19:24:21 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -257,7 +257,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Windows-10-10.0.19043-SP0</td></tr>
       <tr>
         <td>Plugins</td>
-        <td>{"forked": "1.4.0", "html": "3.1.1", "metadata": "1.11.0", "xdist": "2.5.0"}</td></tr>
+        <td>{"allure-pytest": "2.9.45", "forked": "1.4.0", "html": "3.1.1", "metadata": "1.11.0", "xdist": "2.5.0"}</td></tr>
       <tr>
         <td>Project Name</td>
         <td>NEW PLP</td></tr>
@@ -268,8 +268,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Dharmendra Yadav</td></tr></table>
     <h2>Summary</h2>
-    <p>1 tests ran in 17.74 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>3 tests ran in 60.71 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">3 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -283,12 +283,43 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">test_Compare_New.py::Test_Compare_Item::test_CompareItem_2</td>
-          <td class="col-duration">17.71</td>
+          <td class="col-name">test_SeachFilter.py::Test_001_SearchFilter::test_SearchFilter_1</td>
+          <td class="col-duration">18.19</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Compare_New.py:42 ******************** Test case 2 started ********************
-INFO     root:test_Compare_New.py:51 ******************** Compare Item clicked ********************
-INFO     root:test_Compare_New.py:58 ******************** Compare button clicked ********************
-INFO     root:test_Compare_New.py:65 Cat1TestAM | Build 49 @#$#$%#$&amp;%&amp;!Test<br/></div></td></tr></tbody></table></body></html>
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_SeachFilter.py:14 ********** Test_001 | Test for Single Attribute Selection **********
+INFO     root:test_SeachFilter.py:19 Search Filter page loaded
+INFO     root:test_SeachFilter.py:21 117 Results
+INFO     root:test_SeachFilter.py:23 Attribute OUTPUT AMPERE RATING | Checkbox selected for &#x27;10.06&#x27;
+INFO     root:test_SeachFilter.py:25 3 Results<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_SeachFilter.py::Test_001_SearchFilter::test_SearchFilter_2</td>
+          <td class="col-duration">19.11</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_SeachFilter.py:30 ********** Test_002 | Test for Multiple Attribute Selection **********
+INFO     root:test_SeachFilter.py:35 Search Filter page loaded
+INFO     root:test_SeachFilter.py:37 117 Results
+INFO     root:test_SeachFilter.py:39 Attribute OUTPUT AMPERE RATING | Checkbox selected for &#x27;10.06&#x27;
+INFO     root:test_SeachFilter.py:42 Attribute ENCLOSURE RATING | Checkbox selected for &#x27;Type 1&#x27;
+INFO     root:test_SeachFilter.py:44 1 Results<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_SeachFilter.py::Test_001_SearchFilter::test_SearchFilter_3</td>
+          <td class="col-duration">23.23</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_SeachFilter.py:49 ********** Test_003 | Test for No Results Found **********
+INFO     root:test_SeachFilter.py:54 Search Filter page loaded
+INFO     root:test_SeachFilter.py:56 117 Results
+INFO     root:test_SeachFilter.py:58 Attribute OUTPUT AMPERE RATING | Checkbox selected for &#x27;10.06&#x27;
+INFO     root:test_SeachFilter.py:61 Attribute ENCLOSURE RATING | Checkbox selected for &#x27;Type 1&#x27;
+INFO     root:test_SeachFilter.py:64 Attribute FRAME SIZE | Checkbox selected for &#x27;B&#x27;
+INFO     root:test_SeachFilter.py:66 0 Results
+INFO     root:test_SeachFilter.py:69 No Data Available<br/></div></td></tr></tbody></table></body></html>
